@@ -1,0 +1,65 @@
+p{
+    text-transform: uppercase;
+    text-align: center;
+    color: white;
+    line-height: 30px;
+}
+
+.text{
+    font-size: 150%;
+}
+
+#rgb{
+    font-size: 200%;
+}
+
+#info{
+   background-color: yellow; 
+}
+
+.cuadro{
+    margin: 1.66%;
+    width: 30%;
+    padding-bottom: 30%;
+    border: 30px;
+    background-color: aquamarine;
+    border-radius: 15%;
+    float:left;
+}
+#cuadros{
+    width: 60%;
+    height: 100%;
+    background-color: black;
+    margin: 20px auto;
+}
+
+
+
+body {    
+    background-color: black;
+    margin: 0px;
+    border: 0px;
+    padding: 0px;
+}
+
+#line{
+    color:steelblue;
+    background: white;
+    height: 30px;
+    text-align: center;
+}
+
+button{
+    border: none;
+    background: none;
+    text-transform: uppercase;
+    height: 100%;
+    font-weight: 700;
+    color: steelblue;
+    letter-spacing: 1px;
+}
+
+button:hover{
+    color: white;
+    background-color: steelblue;
+}
